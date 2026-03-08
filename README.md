@@ -30,8 +30,6 @@ cd insurance-claims
 ```bash
 npm install
 
-3. Create a .env file in the root directory:
+3. Create a .env file in the root directory
 
-PORT=3000
-MONGODB_URI=mongodb+srv://policy:2002@cluster0.o9kghid.mongodb.net/policy-task
-NODE_ENV=development
+
